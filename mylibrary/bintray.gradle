@@ -31,7 +31,7 @@ bintray {
     key = properties.getProperty("bintray.apikey")
 
     pkg {
-        repo = 'maven'
+        repo = 'Maven'
         name = 'com.example.androidlibrary'
         configurations = ['archives']
         desc = 'An android library.'
