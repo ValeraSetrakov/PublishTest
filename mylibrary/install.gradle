@@ -23,15 +23,15 @@ install {
                 developers {
                     developer {
                         id 'cuttlesoft'
-                        name 'Marisa Gomez'
-                        email 'marisa.gomez@cuttlesoft.com'
+                        name 'Valera Setrakov'
+                        email 'valerasetrakov@gmail.com'
                     }
                 }
 
                 scm {
-                    connection 'https://github.com/cuttlesoft/android-library-example.git'
-                    developerConnection 'https://github.com/cuttlesoft/android-library-example.git'
-                    url 'https://github.com/cuttlesoft/android-library-example'
+                    connection 'https://github.com/ValeraSetrakov/PublishTest.git'
+                    developerConnection 'https://github.com/ValeraSetrakov/PublishTest.git'
+                    url 'https://github.com/ValeraSetrakov/PublishTest'
                 }
             }
         }
